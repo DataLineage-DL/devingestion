@@ -1,4 +1,10 @@
 def test():
     a = 10
-    b=20
+    b=28
     print(a+b) # data ingestion 
+
+
+def multi():
+    a=10
+    b=20
+    print(a*b)
