@@ -1,6 +1,8 @@
-i = input('Enter a word : ')
+# palindrome
+
+i = input('enter a word: ')
 
 if i == i[::-1]:
-    print(i[::-1],'is a palindrome')
+    print('is a palindrome')
 else:
-    print(i,'is not a palindrome')
+    print('is not a palindrome')
