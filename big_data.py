@@ -4,3 +4,4 @@ def big_data():
     c=30
     print(a+b+c)
 big_data()
+print("completed")
